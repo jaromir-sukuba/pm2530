@@ -8,4 +8,6 @@ PM2530 is a dark horse, somehow unknown high precision DMM in the Philips catalo
 
 /media - photographs I took, mostly internals
 
+/doc - documents
+
 Not much else for now. Maybe later.
